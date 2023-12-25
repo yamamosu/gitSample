@@ -5,6 +5,6 @@ class hello {
         System.out.println("new branch");
 
         // conflict_test
-        System.out.println("conflictBranch_conflict");
+        System.out.println("conflictBranch_conflict_resolved");
     }
 }
